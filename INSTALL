@@ -1,9 +1,9 @@
-Building FooCoin
+Building espressocoin
 
-See doc/readme-qt.rst for instructions on building foocoin-qt,
+See doc/readme-qt.rst for instructions on building espressocoin-qt,
 the intended-for-end-users, nice-graphical-interface, reference
-implementation of FooCoin.
+implementation of espressocoin.
 
-See doc/build-*.txt for instructions on building foocoin,
+See doc/build-*.txt for instructions on building espressocoin,
 the intended-for-services, no-graphical-interface, reference
-implementation of FooCoin.
+implementation of espressocoin.
